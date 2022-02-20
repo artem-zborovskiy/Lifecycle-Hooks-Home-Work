@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+p {
+  margin: 20px 0;
+}
+
+ul {
+  padding: 30px 60px;
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+input {
+  width: 50%;
+  margin-right: 20px;
+  outline: 0;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 1px solid ;
+}
